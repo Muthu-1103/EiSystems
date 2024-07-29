@@ -1,0 +1,12 @@
+exercise1.Shape
+exercise1.Circle
+exercise1.Rectangle
+Prototype
+exercise1.Square
+exercise1.ShapeFactory
+exercise1.PrototypePatternDemo
+PrototypePatternDemo
+exercise1.Prototype
+exercise1.Document
+Document
+exercise1.FactoryPatternDemo

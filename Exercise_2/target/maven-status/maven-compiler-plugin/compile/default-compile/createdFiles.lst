@@ -1,0 +1,10 @@
+observer\Observer.class
+observer\Observable.class
+model\ChatRoom.class
+com\mycompany\realtimechatapplication\Main.class
+adapter\WebSocketAdapter.class
+com\mycompany\realtimechatapplication\ChatEndpoint.class
+singleton\ChatRoomManager.class
+model\Message.class
+model\User.class
+observer\ChatRoomObserver.class
