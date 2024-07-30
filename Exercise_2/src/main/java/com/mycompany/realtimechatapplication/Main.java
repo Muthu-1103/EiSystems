@@ -9,7 +9,6 @@ public class Main {
         try {
             server.start();
             System.out.println("Server started at ws://localhost:8025/chat");
-            // Keep the server running until Enter key is pressed
             System.in.read();
         } catch (Exception e) {
             e.printStackTrace();
